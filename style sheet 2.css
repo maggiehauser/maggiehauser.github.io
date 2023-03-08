@@ -5,7 +5,7 @@
 }
 
 body {
-	width:960px;
+	width:900px;
 	margin:0 auto;
 	text-align: center;
 	padding:20px;
@@ -35,11 +35,12 @@ main {
 
 article 
 	background-color: #7FB2FF;
-	padding: 10px;
+	padding: 20px;
 	margin: 10px;
 	width: 280px;
 	floats: left
 	style="float:left"
+	<BR CLEAR=”left” />
 }
 
 footer {
