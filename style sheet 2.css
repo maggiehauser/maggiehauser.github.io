@@ -41,6 +41,9 @@ article
 	floats: left
 	style="float:left"
 	<BR CLEAR=”left” />
+	ul li {
+    display: list-item;
+}
 }
 
 footer {
